@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/contacts-app-redux/static/js/main.5af0fb29.js",
+    "main.js": "/contacts-app-redux/static/js/main.809f2933.js",
     "index.html": "/contacts-app-redux/index.html",
-    "main.5af0fb29.js.map": "/contacts-app-redux/static/js/main.5af0fb29.js.map"
+    "main.809f2933.js.map": "/contacts-app-redux/static/js/main.809f2933.js.map"
   },
   "entrypoints": [
-    "static/js/main.5af0fb29.js"
+    "static/js/main.809f2933.js"
   ]
 }
